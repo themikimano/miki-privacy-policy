@@ -17,4 +17,4 @@ No data is shared with third parties. No analytics, tracking, or advertising too
 If this policy ever changes, the updated version will be posted to this page with a new date.
 
 **Contact:**
-For questions, open an issue on the [https://github.com/themikimano/miki-privacy-policy/issues](GitHub repository).
+For questions, open an issue on the [GitHub repository](https://github.com/themikimano/miki-privacy-policy/issues).
