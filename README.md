@@ -2,7 +2,7 @@
 
 ## Chrome Extensions
 
-### Spotify Pause+
+### 🎛️ Spotify Pause+
 **Last updated:** April 9, 2026
 
 **Spotify Pause+** does not collect, store, transmit, or share any personal data or user information of any kind.
